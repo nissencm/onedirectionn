@@ -25,6 +25,10 @@ body, html {
   background-size: cover;
 }
 
+.btn btn-primary {
+	color:darkred;
+}
+
 .lead {
 
 	padding-left: 25px;
